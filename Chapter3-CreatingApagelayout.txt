@@ -1,0 +1,36 @@
+When we use the right tag in right place,it results in a better page layout,better indexing by search engines and better user experience.
+We use the following tag to get the job done.
+
+<header>
+<main>
+<footer>
+
+Inside the main tag we insert the following tags:
+
+<main> -- The main opening tag
+<section> -- A page section
+<article> -- A self contained content
+<aside> -- Content aside from the content(rg.ads etc)
+</main> -- The main closing tag
+
+creating a page like this is not necessary but it creates a readable & structured layout.
+Also they are useful for SEO.
+
+***Link Attributes***
+<a herf="/content">Contact Us</a>
+<a herf="/content" target="_blank">Contact Us</a>
+
+We can put any content inside an anchor tag(images,heading etc are all allowed)
+
+If the page is inside a directory ,we need to make sure that we link to the correct page
+
+We can add links to the image like this
+
+<a href="/about"><img src='a.jpg' width="120></a>
+
+***The Div Tag***
+Div Tag is often used as a container for other elements div id a  black level element.
+
+***The span tag***
+Span is an inline container.
+

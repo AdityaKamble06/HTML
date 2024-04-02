@@ -1,0 +1,29 @@
+We will focus only on HTML standpoint of SEO.We will not be looking into keyword building and content optimized aspect of SEO..
+
+***Types of SEO***
+->On page SEO
+->Off page SEO
+
+***HTML SEO***
+HTML developes can implement SEO using the following techniques:
+
+1>set the title very nice & to the point.
+
+2>set the meta description
+   <meta name="description" content="...">
+
+3>set a nice URL slug
+
+4>set the meta keywords tag
+
+5>set the meta author tag
+    <meta name="author"content="Harry">
+
+6>Set a faricon
+
+7>Compress images & other resources
+
+8>remove unused HTML/CSS & JS files + Compress them
+
+9>Add alt text to images.
+

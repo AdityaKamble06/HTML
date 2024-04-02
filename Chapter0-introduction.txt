@@ -1,0 +1,17 @@
+HTML--Hyper Text Markup Language
+
+HTML is the language of the web.It is used to create websites.
+We use HTML tags to define look & feel of website.
+With understanding of these tags and how to put them together,we can create beautiful websites easily!
+
+**Then Why CSS & JavaScript**
+HTML is used for defining layout of a page-A bakebone page structure
+
+CSS is used to add styling to that backbone page created using HTML
+
+JavaScript is used to program logic for the page layout eg.What happens when a user  hovers on a text; When to hide or show elements etc.
+
+***A beautiful analogy***
+HTML==Car body(only metal)
+CSS==Car paint,decoration etc.
+JavaScript==Car engine+Interior logic
